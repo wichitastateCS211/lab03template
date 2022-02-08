@@ -1,10 +1,12 @@
 # Shapes
 Print the following shape to the screen:
+```
     #
    ##
   ###
  ####
 #####
+```
 
 The characters '#', '\n', and ' ' (space) may appear once and only once in the code.
 
